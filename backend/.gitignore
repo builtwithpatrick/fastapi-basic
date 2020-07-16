@@ -1,0 +1,4 @@
+ivenv/
+__pycache__/
+*.pyc
+*.swp
